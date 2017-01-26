@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Title">Who you gonna call?</string>
+    <string name="Body">Is there something strange in your neighbourhood? If so, let us know!</string>
+    <string name="Call">Telephone: 01984 446431</string>
+    <string name="Email">Email: Ghostbusters@gmail.com</string>
+</resources>
